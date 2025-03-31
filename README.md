@@ -40,10 +40,6 @@ Currently, I’m working as a **Project Manager** at a tech company, where I:
 ## 🚀 Featured Projects
 > *(You can add links to your actual repositories here)*
 
-- 📰 **CoinCapNews** – A cross-platform crypto news aggregation app  
-- 🛠 **TechFee Tools** – AI-powered data extraction system with WordPress integration  
-- 🌐 **TechFee Hosting** – Platform offering domains, VPS, and web design services
-
 ---
 
 ## ❤️ Thanks for stopping by!
