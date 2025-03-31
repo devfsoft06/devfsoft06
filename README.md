@@ -38,7 +38,6 @@ Currently, I’m working as a **Project Manager** at a tech company, where I:
 ---
 
 ## 🚀 Featured Projects
-> *(You can add links to your actual repositories here)*
 
 ---
 
