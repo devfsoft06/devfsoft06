@@ -29,11 +29,9 @@ Currently, I’m working as a **Project Manager** at a tech company, where I:
 
 ## 🧠 Core Skills
 
-- **Frontend**: ReactJS, NextJS, HTML, CSS, JavaScript, WordPress  
-- **Backend**: NestJS, NodeJS, ExpressJS  
-- **Mobile**: React Native  
-- **DevOps**: Nginx, Docker, Vercel, CI/CD  
-- **Databases**: MongoDB, PostgreSQL, Elasticsearch, Redis
+- **Hard Skills**: Strategic Planning, Risk Management and Electrical Engineering  
+- **Soft Skills**: Front-end, Back-end, Mobile and Linux Os
+- **Other Skills**: Teamwork, Problem Solving and Communication Skills  
 
 ---
 
