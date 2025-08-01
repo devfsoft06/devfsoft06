@@ -8,7 +8,7 @@
 📍 **Hometown**: Cai Nuoc, Ca Mau  
 🏠 **Current location**: Thu Duc, Ho Chi Minh City  
 📧 **Email**: devfsoft06@gmail.com  
-🔗 **LinkedIn**: [feedev](https://www.linkedin.com/in/feedev)
+🔗 **LinkedIn**: [devfsoft06](https://www.linkedin.com/in/devfsoft06)
 
 ---
 
