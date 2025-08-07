@@ -1,6 +1,6 @@
-# 👋 Hi there, I'm Sat Nguyen (Fee)
+# 👋 Hi there, I'm Sat Nguyen (Paul)
 
-> “Without coffee, my code is just comments.” ☕💻
+> Dark Code, Sweet Results” ☕💻
 
 ---
 
