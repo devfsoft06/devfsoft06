@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Sat Nguyen (Paul)
 
-> Dark Code, Sweet Results” ☕💻
+> "Dark Code, Sweet Results" ☕💻
 
 ---
 
